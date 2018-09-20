@@ -2,7 +2,7 @@
 * For a long time blacklist/whitelist has been the default terminology in technology to refer to entities that are refused/provided a particular privilege, service, mobility, access or recognition. 
 rejection.
 * This language is offensive at worst and inaccurate at best.
-* This project uses this language ... _describe how this language is used in the project_
+* This project uses this language ... _describe where this language is used in the project_
 
 ## Motivation
 Language is powerful and shapes our reality. It is also constantly evolving. The concept of black as bad and white as good has roots in racist ideology and should no longer be used.
