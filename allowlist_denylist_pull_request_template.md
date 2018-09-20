@@ -1,6 +1,5 @@
 ## Background
-* For a long time blacklist/whitelist has been the default terminology in technology to refer to entities that are refused/provided a particular privilege, service, mobility, access or recognition. 
-rejection.
+* For a long time blacklist/whitelist has been the default terminology in technology to refer to entities that are refused/provided a particular privilege, service, mobility, access or recognition.
 * This language is offensive at worst and inaccurate at best.
 * This project uses this language ... _describe where this language is used in the project_
 
